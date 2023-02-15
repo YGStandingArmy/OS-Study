@@ -12,9 +12,9 @@
 | [Process API](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf) 	| 미제출 	| [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/5_Proceess_API.md) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
 | [Direct Execution](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf) 	| 미제출 	| [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/6_Direct_Execution.md) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
 | [CPU Scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) 	| 미제출 	| [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/7_CPU_Scheduling.md) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
-| [Address Spaces](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| [제출](https://www.notion.so/Chapter-13-Address-Spaces-8c56652f19a14b918969d217fa2b421b?pvs=4) 	| 미제출 	|
+| [Address Spaces](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf) 	| 미제출 	| [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/13_Address_Spaces.md) 	| 미제출 	| 미제출 	| [제출](https://www.notion.so/Chapter-13-Address-Spaces-8c56652f19a14b918969d217fa2b421b?pvs=4) 	| 미제출 	|
 | [Memory API](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| [제출](https://www.notion.so/Chapter-14-Memory-API-49ed2b14a89c43bd84f0aba351073d73?pvs=4) 	| 미제출 	|
-| [Adress Translation](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
-| [Segmentation](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
-| [Paging](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
-| [Faster Translation ( TLB )](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
+| [Adress Translation](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf) 	| 미제출 	| [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/15_Address_Translation.md)	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
+| [Segmentation](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf) 	| 미제출 	| [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/16_Segmentation.md) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
+| [Paging](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf) 	| 미제출 	| [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/18_Introduction_to_Paging.md) 	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
+| [TLB](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf) 	| 미제출 	| [제출](https://github.com/dev-summer/OS-Study/blob/summercat/Virtualization/19_Translation_Lookaside_Buffers.md)	| 미제출 	| 미제출 	| 미제출 	| 미제출 	|
